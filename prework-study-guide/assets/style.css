@@ -33,3 +33,10 @@ p {
     text-align: center;
     font-size: 30px;
 }
+
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5 px solid rgb(177, 177, 177);
+    box-shadow: 5px 10px #b7b6b688
+}
